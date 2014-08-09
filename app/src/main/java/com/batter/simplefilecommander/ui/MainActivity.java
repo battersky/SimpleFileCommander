@@ -1,4 +1,4 @@
-package com.commander.file.batter.filecommander.ui;
+package com.batter.simplefilecommander.ui;
 
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;

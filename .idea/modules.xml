@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileCommander.iml" filepath="$PROJECT_DIR$/FileCommander.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFileCommander.iml" filepath="$PROJECT_DIR$/SimpleFileCommander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
